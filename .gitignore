@@ -1,0 +1,19 @@
+# Папки с данными
+data/
+archives/
+logs/
+downloads/
+
+# Кэш
+__pycache__/
+
+# Окружение
+.env
+
+# Гецкодрайвер
+geckodriver
+
+# Файлы
+*.pdf
+*.zip
+*.xlsx
