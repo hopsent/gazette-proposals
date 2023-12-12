@@ -1,0 +1,9 @@
+selenium==4.10
+openpyxl==3.1.2
+pandas==2.0.3
+python-dotenv==0.21.0
+requests==2.31.0
+slack_bolt==1.18.1
+flake8==5.0.4
+xlrd==2.0.1
+xlsxwriter==3.1.7
